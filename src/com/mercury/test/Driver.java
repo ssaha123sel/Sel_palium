@@ -10,6 +10,8 @@ public class Driver {
 
 	public static void main(String[] args) throws InterruptedException, FindFailed, AWTException, IOException {
 		MR M1 = new MR();
+		//github repository check
+		
 	//	M1.browserMercuryAppLaunch();
 		//M1.loginwithproperty();
 		//M1.loginDynamic("dasd", "dasd");
